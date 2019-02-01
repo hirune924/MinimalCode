@@ -1,6 +1,6 @@
-#pytorch/data/*
-#pytorch/logs/*
-#pytorch/params/*
+pytorch/data/*
+pytorch/logs/*
+pytorch/params/*
 
 
 # Byte-compiled / optimized / DLL files
