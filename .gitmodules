@@ -1,0 +1,6 @@
+[submodule "pytorch/models/cadene"]
+	path = pytorch/models/cadene
+	url = https://github.com/Cadene/pretrained-models.pytorch
+[submodule "pytorch/models/vision"]
+	path = pytorch/models/vision
+	url = https://github.com/pytorch/vision
